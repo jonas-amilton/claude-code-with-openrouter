@@ -44,7 +44,7 @@ Crie ou edite o arquivo `~/.claude/settings.json` adicionando o bloco de variáv
 
 | Função no Claude Code | Modelo Selecionado | Custo / Roteamento |
 | :--- | :--- | :--- |
-| **Opus** (Tarefas complexas/default) | `deepseek/deepseek-v4.1-flash-1017:floor` | Pago (Roteado ao provider mais barato) |
+| **Opus / Fable** (Tarefas complexas/default) | `deepseek/deepseek-v4.1-flash-1017:floor` | Pago (Roteado ao provider mais barato) |
 | **Sonnet** (Edição e código geral) | `nvidia/nemotron-3-ultra-550b-a55b:free` | 100% Gratuito |
 | **Haiku / Subagentes** | `nvidia/nemotron-3.5-super-vl:free` | 100% Gratuito |
 
