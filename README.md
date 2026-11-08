@@ -28,6 +28,7 @@ Crie ou edite o arquivo `~/.claude/settings.json` adicionando o bloco de variáv
     "ANTHROPIC_BASE_URL": "https://openrouter.ai/api",
     "ANTHROPIC_AUTH_TOKEN": "sk-or-v1-SUA_CHAVE_OPENROUTER_AQUI",
     "ANTHROPIC_API_KEY": "",
+    "ANTHROPIC_DEFAULT_FABLE_MODEL": "deepseek/deepseek-v4.1-flash-1017:floor",
     "ANTHROPIC_DEFAULT_OPUS_MODEL": "deepseek/deepseek-v4.1-flash-1017:floor",
     "ANTHROPIC_DEFAULT_SONNET_MODEL": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "ANTHROPIC_DEFAULT_HAIKU_MODEL": "nvidia/nemotron-3.5-super-vl:free",
