@@ -32,7 +32,8 @@ Crie ou edite o arquivo `~/.claude/settings.json` adicionando o bloco de variáv
     "ANTHROPIC_DEFAULT_OPUS_MODEL": "deepseek/deepseek-v4.1-flash-1017:floor",
     "ANTHROPIC_DEFAULT_SONNET_MODEL": "nvidia/nemotron-3-ultra-550b-a55b:free",
     "ANTHROPIC_DEFAULT_HAIKU_MODEL": "nvidia/nemotron-3.5-super-vl:free",
-    "CLAUDE_CODE_SUBAGENT_MODEL": "nvidia/nemotron-3.5-super-vl:free"
+    "CLAUDE_CODE_SUBAGENT_MODEL": "nvidia/nemotron-3.5-super-vl:free",
+    "CLAUDE_CODE_DISABLE_ADAPTIVE_THINKING": "1"
   }
 }
 ```
